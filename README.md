@@ -1,4 +1,4 @@
 QuickCheck-in-5mn
 =================
 
-A lightning talk about Property-Based Testing and QuickCheck
+[Part1](Part1) is very short intro to Property-Based Testing and QuickCheck
